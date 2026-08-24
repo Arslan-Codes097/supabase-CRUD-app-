@@ -10,8 +10,7 @@ A production-ready file management application demonstrating robust file storage
 ---
 
 ## 🌐 Live Demo & Media
-- **Live App:** [https://supabase-crud-app-.vercel.app/](https://supabase-crud-app-.vercel.app/) *(Update with your Vercel URL)*
-- **Demo Video:** *(Insert Demo GIF/Video Link Here)*
+- **Live App:** [supabase CRUD App](https://supabase-crud-app-g15ggbpq2-arslan-s-projects14.vercel.app/)
 
 ---
 
