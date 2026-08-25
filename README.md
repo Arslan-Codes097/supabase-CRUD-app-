@@ -16,12 +16,8 @@ A production-ready file management application demonstrating robust file storage
 
 ## 📸 Screenshots
 
-| Vault Dashboard | File Validation Flow |
-| :---: | :---: |
-| ![Vault Dashboard](https://placehold.co/600x400?text=Dashboard+Screenshot) | ![Validation](https://placehold.co/600x400?text=Validation+Screenshot) |
-| *Modern Dark-Mode UI with User Segregation* | *Edge Function intercepting invalid uploads* |
-
-*(Replace the placeholder links above with actual screenshots of your Next.js app!)*
+![Vault Dashboard](docs/assets/vault_dashboard.png)
+*Modern Dark-Mode UI with User Segregation*
 
 ---
 
